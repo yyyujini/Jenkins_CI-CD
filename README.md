@@ -1,4 +1,1 @@
-# Install
-cd /home/example
-
-# Run
+# Getting Started Jenkins CI/CD #1
